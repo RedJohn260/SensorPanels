@@ -1,0 +1,433 @@
+[Master]
+Implementation=2
+FontFace=Fixedsys
+FontHeight=-12
+FontWeight=400
+ZoomRatio=2
+[Settings]
+Name=
+RefreshPeriod=1000
+EmbeddedImage=TDGs_Layout_Big.png
+PingAddr=
+[General]
+Sources=10
+Tables=0
+Layers=37
+[Source0]
+Name=CPU usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU usage
+[Source1]
+Name=CPU temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU temperature
+[Source2]
+Name=CPU power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=CPU power
+[Source3]
+Name=CPU clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU clock
+[Source4]
+Name=RAM usage
+Units=GB
+Format=%.1f
+Formula=x/1024
+Provider=HAL
+ID=RAM usage
+[Source5]
+Name=GPU1 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 clock
+[Source6]
+Name=GPU1 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 temperature
+[Source7]
+Name=GPU1 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 usage
+[Source8]
+Name=GPU1 power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 power
+[Source9]
+Name=GPU1 memory usage
+Units=GB
+Format=%.1f
+Formula=x/1024
+Provider=HAL
+ID=GPU1 memory usage
+[Layer0]
+Name=Background
+Text=<I=354,172,0,0,708,344>
+PositionX=4
+PositionY=4
+ExtentX=177
+ExtentY=80
+ExtentOrigin=0
+[Layer1]
+Name=Clock caption
+Text=Clock
+PositionX=13
+PositionY=51
+ExtentX=40
+ExtentY=14
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer2]
+Name=Temp caption
+Text=Temp
+PositionX=13
+PositionY=67
+ExtentX=32
+ExtentY=14
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer3]
+Name=Power caption
+Text=Power
+PositionX=13
+PositionY=83
+ExtentX=40
+ExtentY=14
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer4]
+Name=Usage caption
+Text=Usage
+PositionX=13
+PositionY=99
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer5]
+Name=Memory caption
+Text=Memory
+PositionX=13
+PositionY=115
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer6]
+Name=GPU brand name
+Text=NVIDIA
+PositionX=71
+PositionY=7
+ExtentX=134
+ExtentY=30
+ExtentOrigin=4
+Size=200
+TextColor=76B900
+[Layer7]
+Name=GPU model
+Text=RTX 4070 Ti 12GB
+PositionX=71
+PositionY=32
+ExtentX=134
+ExtentY=15
+ExtentOrigin=4
+TextColor=76B900
+[Layer8]
+Name=GPU clock units
+Text=MHz
+PositionX=141
+PositionY=51
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer9]
+Name=GPU temperature units
+Text=°C
+PositionX=141
+PositionY=67
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer10]
+Name=GPU usage units
+Text=%
+PositionX=141
+PositionY=99
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer11]
+Name=GPU power units
+Text=Watts
+PositionX=141
+PositionY=83
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer12]
+Name=GPU memory usage units
+Text=of 12GB
+PositionX=141
+PositionY=115
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer13]
+Name=GPU clock
+Text=%GPU1 clock%
+PositionX=127
+PositionY=51
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=76B900
+[Layer14]
+Name=GPU temperature
+Text=%GPU1 temperature%
+PositionX=127
+PositionY=67
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=76B900
+[Layer15]
+Name=GPU power
+Text=%GPU1 power%
+PositionX=127
+PositionY=83
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=76B900
+[Layer16]
+Name=GPU usage
+Text=%GPU1 usage%
+PositionX=127
+PositionY=99
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=76B900
+[Layer17]
+Name=GPU memory usage
+Text=%GPU1 memory usage%
+PositionX=127
+PositionY=115
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=76B900
+[Layer18]
+Name=CPU brand name
+Text=Intel
+PositionX=222
+PositionY=7
+ExtentX=136
+ExtentY=30
+ExtentOrigin=4
+Size=200
+TextColor=F9BFF
+[Layer19]
+Name=CPU model
+Text=Core i7-11700
+PositionX=222
+PositionY=32
+ExtentX=136
+ExtentY=15
+ExtentOrigin=4
+TextColor=F9BFF
+[Layer20]
+Name=CPU clock units
+Text=MHz
+PositionX=293
+PositionY=51
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer21]
+Name=CPU temperature units
+Text=°C
+PositionX=293
+PositionY=67
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer22]
+Name=CPU power units
+Text=Watts
+PositionX=293
+PositionY=83
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer23]
+Name=CPU usage units
+Text=%
+PositionX=293
+PositionY=99
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer24]
+Name=CPU memory usage units
+Text=of 32GB
+PositionX=293
+PositionY=115
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer25]
+Name=CPU clock
+Text=%CPU clock%
+PositionX=279
+PositionY=51
+ExtentX=2
+ExtentY=8
+ExtentOrigin=0
+Alignment=-1
+TextColor=F9BFF
+[Layer26]
+Name=CPU temperature
+Text=%CPU temperature%
+PositionX=279
+PositionY=67
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=F9BFF
+[Layer27]
+Name=CPU power
+Text=%CPU power%
+PositionX=279
+PositionY=83
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=F9BFF
+[Layer28]
+Name=CPU usage
+Text=%CPU usage%
+PositionX=279
+PositionY=99
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=F9BFF
+[Layer29]
+Name=CPU memory usage
+Text=%RAM usage%
+PositionX=279
+PositionY=115
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-1
+TextColor=F9BFF
+[Layer30]
+Name=FPS caption
+Text=Framerate
+PositionX=13
+PositionY=135
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer31]
+Name=FPS counter
+Text=<FR>
+PositionX=127
+PositionY=135
+ExtentX=4
+ExtentY=5
+ExtentOrigin=0
+Alignment=-1
+TextColor=FF8040
+[Layer32]
+Name=FPS units
+Text=FPS
+PositionX=141
+PositionY=135
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer33]
+Name=API caption
+Text=API
+PositionX=186
+PositionY=135
+ExtentX=0
+ExtentY=0
+ExtentOrigin=2
+Alignment=1
+TextColor=FFFFFF
+[Layer34]
+Name=API architecture
+Text=<API>
+PositionX=214
+PositionY=135
+ExtentX=0
+ExtentY=0
+ExtentOrigin=5
+Alignment=1
+TextColor=FF8040
+[Layer35]
+Name=GPU driver caption
+Text=Video Driver Version
+PositionX=13
+PositionY=154
+ExtentX=80
+ExtentY=1
+ExtentOrigin=0
+TextColor=FFFFFF
+[Layer36]
+Name=GPU driver version
+Text=%Driver%
+PositionX=179
+PositionY=154
+ExtentX=24
+ExtentY=1
+ExtentOrigin=4
+Alignment=1
+TextColor=76B900

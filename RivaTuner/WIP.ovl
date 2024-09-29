@@ -1,0 +1,1554 @@
+[Master]
+Implementation=2
+FontFace=Unispace
+FontHeight=-9
+FontWeight=400
+ZoomRatio=2
+[Settings]
+Name=
+EnvVars=
+RefreshPeriod=1000
+EmbeddedImage=
+PingAddr=
+[General]
+Sources=75
+Tables=0
+Layers=78
+[Source0]
+Name=CPU1 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU1 usage
+[Source1]
+Name=CPU2 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU2 usage
+[Source2]
+Name=CPU3 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU3 usage
+[Source3]
+Name=CPU4 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU4 usage
+[Source4]
+Name=CPU5 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU5 usage
+[Source5]
+Name=CPU6 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU6 usage
+[Source6]
+Name=CPU7 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU7 usage
+[Source7]
+Name=CPU8 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU8 usage
+[Source8]
+Name=CPU9 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU9 usage
+[Source9]
+Name=CPU10 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU10 usage
+[Source10]
+Name=CPU11 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU11 usage
+[Source11]
+Name=CPU12 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU12 usage
+[Source12]
+Name=CPU usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU usage
+[Source13]
+Name=CPU usage max
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU usage max
+[Source14]
+Name=CPU1 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU1 temperature
+[Source15]
+Name=CPU2 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU2 temperature
+[Source16]
+Name=CPU3 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU3 temperature
+[Source17]
+Name=CPU4 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU4 temperature
+[Source18]
+Name=CPU5 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU5 temperature
+[Source19]
+Name=CPU6 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU6 temperature
+[Source20]
+Name=CPU7 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU7 temperature
+[Source21]
+Name=CPU8 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU8 temperature
+[Source22]
+Name=CPU9 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU9 temperature
+[Source23]
+Name=CPU10 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU10 temperature
+[Source24]
+Name=CPU11 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU11 temperature
+[Source25]
+Name=CPU12 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU12 temperature
+[Source26]
+Name=CPU temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU temperature
+[Source27]
+Name=CPU power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=CPU power
+[Source28]
+Name=CPU1 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU1 clock
+[Source29]
+Name=CPU2 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU2 clock
+[Source30]
+Name=CPU3 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU3 clock
+[Source31]
+Name=CPU4 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU4 clock
+[Source32]
+Name=CPU5 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU5 clock
+[Source33]
+Name=CPU6 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU6 clock
+[Source34]
+Name=CPU7 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU7 clock
+[Source35]
+Name=CPU8 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU8 clock
+[Source36]
+Name=CPU9 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU9 clock
+[Source37]
+Name=CPU10 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU10 clock
+[Source38]
+Name=CPU11 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU11 clock
+[Source39]
+Name=CPU12 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU12 clock
+[Source40]
+Name=CPU clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU clock
+[Source41]
+Name=RAM usage
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=RAM usage
+[Source42]
+Name=RAM usage percent
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=RAM usage percent
+[Source43]
+Name=Commit charge
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=Commit charge
+[Source44]
+Name=Total RAM
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=Total RAM
+[Source45]
+Name=GPU1 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 clock
+[Source46]
+Name=GPU1 memory clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 memory clock
+[Source47]
+Name=GPU1 effective memory clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 effective memory clock
+[Source48]
+Name=GPU1 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 temperature
+[Source49]
+Name=GPU1 temperature 2
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 temperature 2
+[Source50]
+Name=GPU1 fan speed
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 fan speed
+[Source51]
+Name=GPU1 fan tachometer
+Units=RPM
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 fan tachometer
+[Source52]
+Name=GPU1 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 usage
+[Source53]
+Name=GPU1 memory controller usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 memory controller usage
+[Source54]
+Name=GPU1 video engine usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 video engine usage
+[Source55]
+Name=GPU1 bus usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 bus usage
+[Source56]
+Name=GPU1 power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 power
+[Source57]
+Name=GPU1 memory usage
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 memory usage
+[Source58]
+Name=GPU1 memory usage percent
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 memory usage percent
+[Source59]
+Name=GPU1 total memory
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 total memory
+[Source60]
+Name=Framerate
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000050
+Gpu=FFFFFFFF
+SrcName=
+[Source61]
+Name=Frametime
+Units=ms
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000051
+Gpu=FFFFFFFF
+SrcName=
+[Source62]
+Name=Framerate Min
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000052
+Gpu=FFFFFFFF
+SrcName=
+[Source63]
+Name=Framerate Avg
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000053
+Gpu=FFFFFFFF
+SrcName=
+[Source64]
+Name=Framerate 1% Low
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000055
+Gpu=FFFFFFFF
+SrcName=
+[Source65]
+Name=Framerate 0.1% Low
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000056
+Gpu=FFFFFFFF
+SrcName=
+[Source66]
+Name=Framerate Max
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000054
+Gpu=FFFFFFFF
+SrcName=
+[Source67]
+Name=% Committed Bytes In Use
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Memory
+CounterName=% Committed Bytes In Use
+Dynamic=0
+[Source68]
+Name=Available MBytes
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Memory
+CounterName=Available MBytes
+Dynamic=0
+[Source69]
+Name=Packets Received/sec
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Network Adapter
+InstanceName=Microsoft Kernel Debug Network Adapter
+CounterName=Packets Received/sec
+Dynamic=0
+[Source70]
+Name=Packets Sent/sec
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Network Adapter
+InstanceName=Microsoft Kernel Debug Network Adapter
+CounterName=Packets Sent/sec
+Dynamic=0
+[Source71]
+Name=Current Bandwidth
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Network Adapter
+InstanceName=Microsoft Kernel Debug Network Adapter
+CounterName=Current Bandwidth
+Dynamic=0
+[Source72]
+Name=% Usage
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Paging File
+InstanceName=\??\E:\pagefile.sys
+CounterName=% Usage
+Dynamic=0
+[Source73]
+Name=Power Budget
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=Power Meter
+CounterName=Power Budget
+Dynamic=0
+[Source74]
+Name=System Up Time
+Units=
+Format=
+Formula=
+Provider=PerfCounter
+ObjectName=System
+CounterName=System Up Time
+Dynamic=0
+[Layer0]
+Name=Background
+Text=
+PositionX=-1
+PositionY=0
+ExtentX=-77
+ExtentY=-42
+ExtentOrigin=0
+BgndColor=A6000000
+BorderColor=FF8000
+BorderSize=1
+MarginTop=2
+[Layer1]
+Name=CpuGroup
+Text="%CPUFull% - Power: %CPU power%W "
+PositionX=-2
+PositionY=0
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+Size=120
+TextColor=9DFF
+MarginTop=4
+[Layer2]
+Name=BackgroundCPU%group
+Text=
+PositionX=-2
+PositionY=-2
+ExtentX=-21
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=9DFF
+BorderSize=1
+MarginTop=2
+[Layer3]
+Name=Cpu%usage
+Text=CPU1  %CPU1 usage%%
+PositionX=-1
+PositionY=-2
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer4]
+Name=Cpu%usage
+Text=CPU2  %CPU2 usage%%
+PositionX=-1
+PositionY=-3
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer5]
+Name=Cpu%usage
+VisibilitySource=CPU3 usage
+Text=CPU3  %CPU3 usage%%
+PositionX=-1
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer6]
+Name=Cpu%usage
+Text=CPU4  %CPU4 usage%%
+PositionX=-1
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer7]
+Name=Cpu%usage
+Text=CPU5  %CPU5 usage%%
+PositionX=-1
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer8]
+Name=Cpu%usage
+Text=CPU6  %CPU6 usage%%
+PositionX=-1
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer9]
+Name=Cpu%usage
+Text=CPU7  %CPU7 usage%%
+PositionX=-11
+PositionY=-2
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer10]
+Name=Cpu%usage
+Text=CPU8  %CPU8 usage%%
+PositionX=-11
+PositionY=-3
+ExtentX=-7
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer11]
+Name=Cpu%usage
+Text=CPU9  %CPU9 usage%%
+PositionX=-11
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer12]
+Name=Cpu%usage
+Text=CPU10 %CPU10 usage%%
+PositionX=-11
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer13]
+Name=Cpu%usage
+Text=CPU11 %CPU11 usage%%
+PositionX=-11
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer14]
+Name=Cpu%usage
+Text=CPU12 %CPU12 usage%%
+PositionX=-11
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=8
+MarginTop=6
+[Layer15]
+Name=Cpu%usage
+Text=CPU Package: %CPU usage%%
+PositionX=-4
+PositionY=-9
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+[Layer16]
+Name=BackgroundCPUClockgroup
+Text=
+PositionX=-23
+PositionY=-2
+ExtentX=-30
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=9DFF
+BorderSize=1
+MarginTop=2
+[Layer17]
+Name=Cpu%usage
+Text=CPU1  %CPU1 clock% Mhz
+PositionX=-23
+PositionY=-2
+ExtentX=-13
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer18]
+Name=Cpu%usage
+Text=CPU2  %CPU2 clock% Mhz
+PositionX=-23
+PositionY=-3
+ExtentX=-13
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer19]
+Name=Cpu%usage
+Text=CPU3  %CPU3 clock% Mhz
+PositionX=-23
+PositionY=-4
+ExtentX=-13
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer20]
+Name=Cpu%usage
+Text=CPU4  %CPU4 clock% Mhz
+PositionX=-23
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer21]
+Name=Cpu%usage
+Text=CPU5  %CPU5 clock% Mhz
+PositionX=-23
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer22]
+Name=Cpu%usage
+Text=CPU6  %CPU6 clock% Mhz
+PositionX=-23
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer23]
+Name=Cpu%usage
+Text=CPU7  %CPU7 clock% Mhz
+PositionX=-38
+PositionY=-2
+ExtentX=-13
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer24]
+Name=Cpu%usage
+Text=CPU8  %CPU8 clock% Mhz
+PositionX=-38
+PositionY=-3
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer25]
+Name=Cpu%usage
+Text=CPU9  %CPU9 clock% Mhz
+PositionX=-38
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer26]
+Name=Cpu%usage
+Text=CPU10 %CPU10 clock% Mhz
+PositionX=-38
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer27]
+Name=Cpu%usage
+Text=CPU11 %CPU11 clock% Mhz
+PositionX=-38
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer28]
+Name=Cpu%usage
+Text=CPU12 %CPU12 clock% Mhz
+PositionX=-38
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=5
+[Layer29]
+Name=Cpu%usage
+Text=CPU Package: %CPU clock% Mhz
+PositionX=-27
+PositionY=-9
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+[Layer30]
+Name=CpuTempGroup
+Text=
+PositionX=-53
+PositionY=-2
+ExtentX=-24
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=9DFF
+BorderSize=1
+MarginTop=2
+[Layer31]
+Name=Cpu%usage
+Text=CPU1  %CPU1 temperature% °C
+PositionX=-53
+PositionY=-2
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer32]
+Name=Cpu%usage
+Text=CPU2  %CPU2 temperature% °C
+PositionX=-53
+PositionY=-3
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer33]
+Name=Cpu%usage
+Text=CPU3  %CPU3 temperature% °C
+PositionX=-53
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer34]
+Name=Cpu%usage
+Text=CPU4  %CPU4 temperature% °C
+PositionX=-53
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer35]
+Name=Cpu%usage
+Text=CPU5  %CPU5 temperature% °C
+PositionX=-53
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer36]
+Name=Cpu%usage
+Text=CPU6  %CPU6 temperature% °C
+PositionX=-53
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer37]
+Name=Cpu%usage
+Text=CPU7  %CPU7 temperature% °C
+PositionX=-65
+PositionY=-2
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer38]
+Name=Cpu%usage
+Text=CPU8  %CPU8 temperature% °C
+PositionX=-65
+PositionY=-3
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer39]
+Name=Cpu%usage
+Text=CPU9  %CPU9 temperature% °C
+PositionX=-65
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer40]
+Name=Cpu%usage
+Text=CPU10 %CPU10 temperature% °C
+PositionX=-65
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer41]
+Name=Cpu%usage
+Text=CPU11 %CPU11 temperature% °C
+PositionX=-65
+PositionY=-6
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer42]
+Name=Cpu%usage
+Text=CPU12 %CPU12 temperature% °C
+PositionX=-65
+PositionY=-7
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer43]
+Name=Cpu%usage
+Text=CPU Package: %CPU temperature% °C
+PositionX=-55
+PositionY=-9
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=9DFF
+RefreshPeriod=10
+MarginLeft=4
+MarginTop=4
+[Layer44]
+Name=GpuGroup
+Text="%GPUFull% - %VRAM%-Power: %GPU1 power%W "
+PositionX=-2
+PositionY=-12
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+Size=120
+TextColor=FF00
+[Layer45]
+Name=GPUClkGroup
+Text=
+PositionX=-2
+PositionY=-13
+ExtentX=-21
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=FF00
+BorderSize=1
+MarginTop=4
+[Layer46]
+Name=GPUInfo
+Text=GPU CoreCl: %GPU1 clock% Mhz
+PositionX=-1
+PositionY=-13
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer47]
+Name=GPUInfo
+Text=GPU MemrCl: %GPU1 memory clock% Mhz
+PositionX=-1
+PositionY=-14
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer48]
+Name=GPUInfo
+Text=GPU EffMCl: %GPU1 effective memory clock% Mhz
+PositionX=-1
+PositionY=-15
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer49]
+Name=GPUInfo
+Text=GPU EffMCl: %GPU1 effective memory clock% Mhz
+PositionX=-1
+PositionY=-16
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer50]
+Name=GPUInfo
+Text=GPU Power: %GPU1 power% W
+PositionX=-1
+PositionY=-17
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer51]
+Name=GPUInfo
+Text=GPU MemUs: %GPU1 memory usage percent% %
+PositionX=-1
+PositionY=-18
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer52]
+Name=GPUClkGroup
+Text=
+PositionX=126
+PositionY=136
+ExtentX=-30
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=FF00
+BorderSize=1
+MarginTop=4
+[Layer53]
+Name=GPUInfo
+Text=GPU Temp: %GPU1 temperature% °C
+PositionX=-22
+PositionY=-13
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer54]
+Name=GPUInfo
+Text=GPU Hots: %GPU1 temperature 2% °C
+PositionX=-22
+PositionY=-14
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer55]
+Name=GPUInfo
+Text=GPU Fan: %GPU1 fan tachometer% RPM
+PositionX=-22
+PositionY=-15
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer56]
+Name=GPUInfo
+Text=GPU Fan: %GPU1 fan speed% %
+PositionX=-22
+PositionY=-16
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer57]
+Name=GPUInfo
+Text=GPU VidEng: %GPU1 video engine usage%
+PositionX=-22
+PositionY=-17
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer58]
+Name=GPUInfo
+Text=GPU Bus: %GPU1 bus usage%
+PositionX=-22
+PositionY=-18
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer59]
+Name=GPUInfo
+Text=GPU Vram: %GPU1 memory usage%/%GPU1 total memory% MB
+PositionX=-26
+PositionY=-20
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer60]
+Name=GPUInfo
+Text=GPU Package: %GPU1 usage% %
+PositionX=-2
+PositionY=-20
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FF00
+MarginLeft=8
+MarginTop=6
+[Layer61]
+Name=SystemTitle
+VisibilitySource=Motherboard Name
+Text=ASUS Rampage IV
+PositionX=-57
+PositionY=-12
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+Size=120
+TextColor=FFA500
+[Layer62]
+Name=SysGroup
+Text=
+PositionX=-53
+PositionY=-13
+ExtentX=-24
+ExtentY=-9
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=FFA500
+BorderSize=1
+MarginTop=4
+[Layer63]
+Name=SysInfo
+Text=RAM: %RAM usage%/%Total RAM% MB
+PositionX=-55
+PositionY=-13
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FFA500
+MarginLeft=8
+MarginTop=6
+[Layer64]
+Name=SysInfo
+Text=RAM Free: %Available MBytes% MB
+PositionX=-55
+PositionY=-14
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FFA500
+MarginLeft=8
+MarginTop=6
+[Layer65]
+Name=SysInfo
+Text=RAM Usage: %RAM usage percent% %
+PositionX=-55
+PositionY=-15
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FFA500
+MarginLeft=8
+MarginTop=6
+[Layer66]
+Name=SysInfo
+Text=%%
+PositionX=-55
+PositionY=-16
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+TextColor=FFA500
+MarginLeft=8
+MarginTop=6
+[Layer67]
+Name=FPSGroup
+Text=Asus Rampage IV Formula - FPS monitoring
+PositionX=-2
+PositionY=-23
+ExtentX=0
+ExtentY=0
+ExtentOrigin=1
+FixedAlignment=1
+Size=120
+TextColor=FF006A
+[Layer68]
+Name=FpsGroup
+Text=
+PositionX=-2
+PositionY=-24
+ExtentX=-75
+ExtentY=-18
+ExtentOrigin=1
+BgndColor=1000000
+BorderColor=FF006A
+BorderSize=1
+MarginTop=4
+MarginBottom=6
+[Layer69]
+Name=FPSInfo
+Text=Framerate\n<G=Framerate,-65,-2,1,0,100,0> 60 FPS
+PositionX=-2
+PositionY=-24
+ExtentX=-75
+ExtentY=-3
+ExtentOrigin=0
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer70]
+Name=FPSInfo
+Text=Frametime\n<G=Frametime> 17 ms
+PositionX=-2
+PositionY=-30
+ExtentX=-75
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer71]
+Name=FPSInfo
+Text=Framerate Avg <FRAVG> FPS
+PositionX=-85
+PositionY=-35
+ExtentX=-24
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer72]
+Name=FPSInfo
+Text=Framerate 1% Low <FR10L> FPS
+PositionX=-85
+PositionY=-32
+ExtentX=-24
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer73]
+Name=FPSInfo
+Text=Framerate 0.1% Low <FR01L> FPS
+PositionX=-85
+PositionY=-29
+ExtentX=-24
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer74]
+Name=FPSInfo
+Text=Framerate Min <FRMIN> FPS
+PositionX=-85
+PositionY=-26
+ExtentX=-24
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer75]
+Name=FPSInfo
+Text=Framerate Max <FRMAX> FPS
+PositionX=-85
+PositionY=-23
+ExtentX=-24
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer76]
+Name=FPSInfo
+Text=Framerate history\n<G=Framerate history> %Framerate history% FPS
+PositionX=-2
+PositionY=-27
+ExtentX=-75
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
+[Layer77]
+Name=FPSInfo
+Text=Frametime history\n<G=Frametime history> %Frametime history% ms
+PositionX=-2
+PositionY=-33
+ExtentX=-75
+ExtentY=-3
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FF006A
+MarginLeft=4
+MarginTop=7
+MarginRight=4
